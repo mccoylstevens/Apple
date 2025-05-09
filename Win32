@@ -2,9 +2,9 @@
 @model MMPX5LL_A_iPhone_12__Black__64GB.MyFeature.Pages.Page1Model
 
 <!DOCTYPE html>
-
+<head></head>
 <html>
-<head>
+<home>
     <meta name="viewport" content="width=device-width" />
     <title>Page1</title>
 </head>

@@ -1,10 +1,10 @@
 # Security Policy
-
+1.0
 ## Supported Versions
-
+2.0
 "DIGITAL Command Language"
 currently being supported with security updates.
-
+all microsoft
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
